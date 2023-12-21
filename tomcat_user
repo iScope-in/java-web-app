@@ -1,6 +1,3 @@
-# java-web-app
-iScope's Java Web Application
-
 <role rolename="manager-gui"/>
 <role rolename="manager-script"/>
 <role rolename="manager-jmx"/>
