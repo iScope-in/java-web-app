@@ -9,3 +9,4 @@ iScope's Java Web Application
 <user username="deployer" password="deployer" roles="manager-script"/>
 <user username="tomcat" password="tomcat" roles="manager-gui"/>
 <Hello>
+<Hi>
