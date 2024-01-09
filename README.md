@@ -8,3 +8,4 @@ iScope's Java Web Application
 <user username="admin" password="admin" roles="manager-gui, manager-script, manager-jmx, manager-status"/>
 <user username="deployer" password="deployer" roles="manager-script"/>
 <user username="tomcat" password="tomcat" roles="manager-gui"/>
+<Hi>
