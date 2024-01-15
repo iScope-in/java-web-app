@@ -4,6 +4,9 @@
 	</head>
 	<body>
 		<h2 style="background: blue;text-align: center;color: white;">iScope's DevOps Projects</h2>
+		    <a href="https://iscope.in/" target="_blank">Visit iscope.in</a>
+		    <a href="https://iscope.in/wp-content/uploads/2023/01/Devops-Program.pdf" target="_blank">DevOps Course</a>
+		 
 		<p><b>iScope's DevOps</b></p>
 		<p>We need to have the knowledge of Linux installation, Git, maven, web application, aws to complete the project </p>
 		<p>A DevOps Engineer must have knowledge on the below tools</p>
